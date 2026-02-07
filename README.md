@@ -34,5 +34,4 @@ This project performs **Exploratory Data Analysis (EDA)** on the Titanic dataset
 ## Results
 The analysis revealed meaningful survival patterns across age groups, family sizes, and embarkation ports, demonstrating the importance of feature engineering and visualization in data analysis.
 
-## Author
-Meghana
+
